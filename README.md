@@ -2,7 +2,7 @@
 
 Zuoraquery is an easy way to query the Zuora SOAP API using Zuora's query language ZOQL.
 
-For more information on ZOQL: https://knowledgecenter.zuora.com/DC_Developers/SOAP_API/M_Zuora_Object_Query_Language/Export_ZOQL
+For more information on ZOQL: https://knowledgecenter.zuora.com/DC_Developers/SOAP_API/M_Zuora_Object_Query_Language
 
 ##Installation
 ```python
